@@ -1,4 +1,4 @@
-# Store-Annual-Report
+# Vrinda-Store-Annual-Report
  # Objective of the Project 
   The owner of Vrinda Store aims to create an annual sales report for the year 2022. This report will help Vrinda Store better 
   understand its customers and strategically plan to increase sales in 2023.
